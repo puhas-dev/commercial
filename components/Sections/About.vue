@@ -14,12 +14,12 @@
                     <p
                         v-for="(desc, index) in description"
                         :key="(index + 1) * Math.random()"
-                        class="mb-2"
+                        class="mb-2 text-xl"
                     >
                         {{ desc }}
                     </p>
                 </div>
-                <div class="mt-6 lg:mt-0">
+                <div class="mt-0 lg:mt-0">
                     <div
                         class="
                             mx-auto

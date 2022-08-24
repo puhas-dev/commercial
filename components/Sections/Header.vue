@@ -14,7 +14,7 @@
       "
     >
       <main v-if="about">
-        <h1 class="text-6xl md:text-7xl lg:text-8xl font-light">
+        <h1 class="text-8xl text-center font-semibold md:text-7xl lg:text-8xl font-light">
           {{ about.name }}
         </h1>
         <h2
@@ -23,13 +23,16 @@
             md:text-7xl
             lg:text-8xl
             font-bold
-            text-gray-500
+            text-lime-700
+            text-center
+            hover:text-lime-500
             dark:text-gray-400
+            dark:hover:text-gray-300
           "
         >
           {{ about.title }}
         </h2>
-        <p class="mt-4 max-w-2xl text-gray-500 dark:text-gray-400 leading-1">
+        <p class="text-2xl mt-4 text-gray-500 text-center dark:text-gray-400 leading-1">
           {{ about.bio }}
         </p>
       </main>

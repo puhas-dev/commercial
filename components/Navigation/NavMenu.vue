@@ -25,12 +25,12 @@
           focus:text-blue-500
           dark:focus:text-cyan-400
         "
-        >About</nuxt-link
+        >About Us</nuxt-link
       >
     </li>
     <li>
       <nuxt-link
-        to="/#skills"
+        to="/#buy"
         class="
           px-4
           py-2
@@ -43,12 +43,12 @@
           focus:text-blue-500
           dark:focus:text-cyan-400
         "
-        >Skills</nuxt-link
+        >Buy</nuxt-link
       >
     </li>
     <li>
       <nuxt-link
-        to="/#experience"
+        to="/#sell"
         class="
           px-4
           py-2
@@ -61,12 +61,12 @@
           focus:text-blue-500
           dark:focus:text-cyan-400
         "
-        >Experience</nuxt-link
+        >Sell</nuxt-link
       >
     </li>
     <li>
       <nuxt-link
-        to="/#projects"
+        to="/#partner"
         class="
           px-4
           py-2
@@ -79,7 +79,25 @@
           focus:text-blue-500
           dark:focus:text-cyan-400
         "
-        >Projects</nuxt-link
+        >Partner</nuxt-link
+      >
+    </li>
+    <li>
+      <nuxt-link
+        to="/#farms"
+        class="
+          px-4
+          py-2
+          text-center
+          block
+          w-full
+          transition
+          hover:text-blue-500
+          dark:hover:text-cyan-400
+          focus:text-blue-500
+          dark:focus:text-cyan-400
+        "
+        >Our Farms</nuxt-link
       >
     </li>
   </ul>
