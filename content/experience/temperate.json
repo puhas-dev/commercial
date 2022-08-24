@@ -1,0 +1,18 @@
+{
+  "company": "Temperate Technologies",
+  "company_website": "https://temperate.tech/",
+  "role": "Product Engineer Intern",
+  "contract": {
+    "location": "Hyderabad, Telangana, India",
+    "live": false
+  },
+  "duration": "January 2022 - April 2022",
+  "description": "Temperate is a 0-1 startup that has developed a new proprietary energy-efficient cooling technology based on dew point cooling. It aims to combat the food storage and wastage problem (over 500 billion rupees worth of fruits and vegetables are wasted every year in India) that arises due to the lack of cold storage facilities.",
+  "tasks": [
+    "Led the product team and presented the deliverables on time.",
+    "Solidified the user experience on the existing website platform.",
+    "Simplified the data extraction and backup processes to and from the AWS database.",
+    "Developed the accompanying Android App from the ground up to replicate the website's UI.",
+    "Documented the platform's user stories to aid the stakeholders."
+  ]
+}

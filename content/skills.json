@@ -1,0 +1,104 @@
+{
+  "skills": [
+    {
+      "name": "C",
+      "icon": "c.svg"
+    },
+    {
+      "name": "C++",
+      "icon": "cpp.svg"
+    },
+    {
+      "name": "C#",
+      "icon": "c-sharp.svg"
+    },
+    {
+      "name": "NodeJS",
+      "icon": "nodejs.svg"
+    },
+    {
+      "name": "OpenCV",
+      "icon": "opencv.svg"
+    },
+    {
+      "name": "Ruby",
+      "icon": "ruby.svg"
+    },
+    {
+      "name": "VueJS",
+      "icon": "vue-js.svg"
+    },
+    {
+      "name": "AWS",
+      "icon": "aws.svg"
+    },
+    {
+      "name": "Google Cloud Platform",
+      "icon": "gcp.svg"
+    },
+    {
+      "name": "OpenGL",
+      "icon": "opengl.svg"
+    },
+    {
+      "name": "WebGL",
+      "icon": "webgl.svg"
+    },
+    {
+      "name": "Go",
+      "icon": "go.svg"
+    },
+    {
+      "name": "Rust",
+      "icon": "rust.svg"
+    },
+    {
+      "name": "Python",
+      "icon": "python.svg"
+    },
+    {
+      "name": "Kubernetes",
+      "icon": "kubernetes.svg"
+    },
+    {
+      "name": "Tensorflow",
+      "icon": "tensorflow.svg"
+    },
+    {
+      "name": "HTML",
+      "icon": "html.svg"
+    },
+    {
+      "name": "CSS",
+      "icon": "css.svg"
+    },
+    {
+      "name": "React",
+      "icon": "react.svg"
+    },
+    {
+      "name": "Javascript",
+      "icon": "javascript.svg"
+    },
+    {
+      "name": "Java",
+      "icon": "java.svg"
+    },
+    {
+      "name": "MySQL",
+      "icon": "mysql.svg"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "mongodb.svg"
+    },
+    {
+      "name": "Docker",
+      "icon": "docker.svg"
+    },
+    {
+      "name": "Git",
+      "icon": "git.svg"
+    }
+  ]
+}
